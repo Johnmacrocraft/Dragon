@@ -1,5 +1,5 @@
 # Dragon
-<p>I have the right to issue a DCMA takedown for any leaks before official release.</p>
+<p>I have the right to issue a <a href="https://www.dmca.com/faq/What-is-a-DMCA-Takedown">DMCA</a> takedown for any leaks before official release.</p>
 <p>Join the discord: <a href="https://discord.gg/ZKvqQuN">here</a></p>
 <p>Wiki: <a href="https://github.com/ArceusMatt/Dragon/wiki">here</a></p>
 <p>Download: <a href="https://arceusmatt.github.io/dragon">here</a></p>
