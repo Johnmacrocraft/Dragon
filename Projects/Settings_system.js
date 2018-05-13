@@ -6,19 +6,17 @@ var testcolor = "black"; //dynamic
 /* make sure to check if your dir exists & if not; create it. */
 
 /*
-func dragon.setColor(Int which, String color)
+func setColor(Int which, String color)
 made by ArceusMatt
 This is the set color function.
 "which" is what widget to change color of... e.g. button.
 "color" parameter is used to set to that color.
 */
-var dragon = {
-function: setColor(which, color){
+function setColor(which, color){
 var str = color.toLowerCase();
 if(which == 0){
-test_color = color;
-testcolor = color;
-}
+test_color = str;
+testcolor = str;
 }
 }
 
@@ -39,7 +37,7 @@ data.append(string);
 data.append("\n");
 }
 var json = JSON.parse(data.toString());
-dragon.setColor(0, json.color);
+setColor(0, json.color);
 } else {
 var json = '{"color":"'+testcolor+'"}';
 file.createNewFile();
