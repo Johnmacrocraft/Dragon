@@ -1,12 +1,12 @@
 Instellingen
 Gevecht
-Bewegen
+Beweging
 Speler
 Wereld
-Andere
+Anders
 Credits
 Weggaan
 Ja
 Nee
 Updaten
-Discord
+Discord joinen
