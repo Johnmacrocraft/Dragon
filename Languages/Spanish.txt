@@ -1,0 +1,12 @@
+Ajustes
+Combate
+Movimiento
+Jugador
+Mundo
+Otro
+Creditos
+Salida
+Si
+No
+Actualizar
+Discord
