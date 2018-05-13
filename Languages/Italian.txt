@@ -1,0 +1,12 @@
+Impostazione
+Combattimento
+Movimento
+Giocatore
+Mondo
+Altro
+Crediti
+Esci
+Si
+No
+Aggiornamento
+Unisciti a noi su discord
