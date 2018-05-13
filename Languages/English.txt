@@ -1,0 +1,12 @@
+Settings
+Combat
+Movement
+Player
+World
+Other
+Credits
+Exit
+Yes
+No
+Update
+Join discord
