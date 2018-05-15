@@ -38,7 +38,9 @@ ModPE.JSON = {
 /*
 func getUpdate()
 made by ArceusMatt
-By using a get request to a github json file we grab json that contents the new version number & compare it to the version number in the script.
+By using a get request to a github json file
+we grab json that contains the new version number
+& compare it to the version number in the script.
 */
 function getUpdate() {
 var url = "https://raw.githubusercontent.com/ArceusMatt/Dragon/master/version.json";
