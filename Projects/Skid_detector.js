@@ -46,7 +46,7 @@ if(dir1.exists() || dir1.isDirectory())dir = dir1;
 var list = dir.listFiles();
 for(var i = 0; i < list.length; i++){
 if (list[i].isFile()) {
-if(list[i].getName().endsWith(".js") || list[i].getName().endsWith(".mkg")){
+if(list[i].getName().endsWith(".js") || list[i].getName().endsWith(".modpkg")){
 files.push(list[i].getName().toLowerCase());
 }}}
 checkScripts();
