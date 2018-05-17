@@ -13,11 +13,4 @@ Do not reupload/release this content.
 
 To share the client please use the following:
 https://arceusmatt.github.io/dragon
-
-   ____                              
-  |  _ \ _ __ __ _  __ _  ___  _ __  
-  | | | | '__/ _` |/ _` |/ _ \| '_ \ 
-  | |_| | | | (_| | (_| | (_) | | | |
-  |____/|_|  \__,_|\__, |\___/|_| |_|
-                   |___/             
 </pre>
