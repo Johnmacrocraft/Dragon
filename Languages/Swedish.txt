@@ -1,0 +1,12 @@
+Inställningar
+Strid
+Rörelse
+Spelare
+Värld
+Annat
+Skapare
+Stäng
+Ja
+Nej
+Uppdatera
+Gå med i Discord-servern
